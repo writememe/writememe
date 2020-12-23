@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 [![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=writememe&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=writememe&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writememe&show_icons=true)
