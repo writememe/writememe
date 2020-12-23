@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**writememe/writememe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
 
@@ -9,6 +5,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=writememe&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writememe&show_icons=true)
+
+<!--
+**writememe/writememe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on Network Automation 
 - 💬 Ask me about Network Automation
