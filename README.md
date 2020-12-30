@@ -1,5 +1,5 @@
 
-## Wominjeka (Welcome)
+## Welcome (Wominjeka)
 
 I'm Daniel and I live and work and I enjoying learning, developing and contributing to automation projects.
 
