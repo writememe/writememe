@@ -3,7 +3,7 @@
 
 I'm Daniel and I live and work and I enjoying learning, developing and contributing to automation projects.
 
-I'd like to acknowledge the [Wurundjeri people](https://www.wurundjeri.com.au/) as the traditional owners of the land on which I work and live.
+I'd like to acknowledge the [Wadawurring people](https://www.wadawurrung.org.au/) as the traditional owners of the land on which I work and live.
 
 I'm the maintainer of a open-source project, called [motherstarter](https://github.com/writememe/motherstarter)
 
@@ -14,7 +14,7 @@ I'm the maintainer of a open-source project, called [motherstarter](https://gith
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=writememe&show_icons=true)
 
 
-- 🔭 I’m currently working on network automation
+- 🔭 I’m currently working on all things automation such CI/CD, Infra as Code, Python, AWS
 - 💬 Ask me about network automation
 - 📫 How to reach me: Twitter -> [danielteycheney](https://twitter.com/danielteycheney)
 
