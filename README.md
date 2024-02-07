@@ -3,7 +3,7 @@
 
 I'm Daniel and I live and work and I enjoying learning, developing and contributing to automation projects.
 
-I'd like to acknowledge the [Wadawurring people](https://www.wadawurrung.org.au/) as the traditional owners of the land on which I work and live.
+I'd like to acknowledge the [Wadawurrung people](https://www.wadawurrung.org.au/) as the traditional owners of the land on which I work and live.
 
 I'm the maintainer of a open-source project, called [motherstarter](https://github.com/writememe/motherstarter)
 
